@@ -25,4 +25,4 @@ Matematiksel problem çözümleri ve algoritmalar.
 Kullanıcı etkileşimli (input/output) temel scriptler.
 
 Bu çalışma bir "öğrenme günlüğü" niteliğindedir.
-![İstatistikler](https://github-readme-stats.vercel.app/api?username=eren-akcnn&show_icons=true&theme=radical)
+
