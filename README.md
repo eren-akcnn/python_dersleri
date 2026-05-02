@@ -25,4 +25,11 @@ Matematiksel problem çözümleri ve algoritmalar.
 Kullanıcı etkileşimli (input/output) temel scriptler.
 
 Bu çalışma bir "öğrenme günlüğü" niteliğindedir.
+# 🐍 Python Çalışmalarım
+
+### 📊 GitHub İstatistiklerim
+![Eren'in İstatistikleri](https://github-readme-stats.vercel.app/api?username=eren-akcnn&show_icons=true&theme=radical)
+
+### 🚀 En Çok Kullandığım Diller
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=eren-akcnn&layout=compact&theme=radical)
 
