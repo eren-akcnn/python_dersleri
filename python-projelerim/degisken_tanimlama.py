@@ -17,4 +17,4 @@ print(urunAFıyat + urunBFıyat)
 
 
 
-# eger tırnak ısaretı kullansaydık toplama carpma ıslemlerını yapmaz dırekt yazanları yazardı
+# eger tırnak ısaretı kullansaydık toplama carpma ıslemlerını yapmaz dırekt yazanları yazardı"
