@@ -9,14 +9,6 @@ Merhaba! Ben **Eren Akcan**. Necmettin Erbakan Üniversitesi Matematik ve Bilgis
 
 ---
 
-### 🎓 Akademik Çalışmalarım
-Şu an aktif olarak üniversitedeki vize dönemimdeyim ve aşağıdaki derslerin bilgisayar bilimleri ile entegrasyonu üzerine çalışıyorum:
-
-* **Lineer Cebir:** Matris işlemleri ve vektör hesaplamaları.
-* **Kalkülüs:** Fonksiyonlar ve sayısal analizler.
-* **Bilgisayar Programlama:** Python ile temel yazılım mantığı.
-
----
 
 ### 💻 Teknik Odak Noktalarım
 * **Dil:** Python (Backend geliştirme hedefiyle).
