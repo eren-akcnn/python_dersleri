@@ -23,3 +23,5 @@ print(x + y) # bu deger 1020 olarak cıkar cunku tırnak koyulursa karakter olar
 
 x , y , z = 10 , 20 , 30
 # burda da alt alta yazmak yerıne vırgul kullanarak degıskenlere deger atadık 
+
+
