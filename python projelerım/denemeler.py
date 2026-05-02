@@ -1,3 +1,6 @@
-input("ne yemek seversın kanka")
+input("ne yemek seversin kanka")
+ 
+print("benim en sevdigim de kofte ")
 
-print("kofte cok severım")
+
+
