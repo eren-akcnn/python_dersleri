@@ -1,27 +1,26 @@
-🐍 Python Öğreniyorum | Matematik ve Bilgisayar Bilimleri
-Merhaba! Ben Eren Akcan. Necmettin Erbakan Üniversitesi Matematik ve Bilgisayar Bilimleri bölümü öğrencisiyim. Bu depoda, hem bölüm derslerimde öğrendiğim algoritmaları hem de kendi başıma ilerlediğim Python çalışmalarımı biriktiriyorum.
+# 🐍 Python Öğreniyorum | Matematik ve Bilgisayar Bilimleri
 
-🎓 Akademik Çalışmalarım
-Şu an aktif olarak üniversitedeki vize dönemimdeyim ve aşağıdaki derslerin bilgisayar bilimleri ile entegrasyonu üzerine çalışıyorum:
+Merhaba! Ben **Eren Akcan**. Necmettin Erbakan Üniversitesi Matematik ve Bilgisayar Bilimleri bölümü öğrencisiyim.
 
-Lineer Cebir: Matris işlemleri ve vektör hesaplamaları.
+---
 
-Kalkülüs: Fonksiyonlar ve sayısal analizler.
+### 🚀 Genel İstatistiklerim
+![Eren'in Streak İstatistikleri](https://github-readme-streak-stats.herokuapp.com/?user=eren-akcnn&theme=radical)
 
-Bilgisayar Programlama: Python ile temel yazılım mantığı.
+---
 
-💻 Teknik Odak Noktalarım
-Dil: Python (Backend geliştirme hedefiyle).
 
-Araçlar: VS Code, PyCharm ve Git/GitHub kullanımı.
+### 💻 Teknik Odak Noktalarım
+* **Dil:** Python (Backend geliştirme hedefiyle).
+* **Araçlar:** VS Code, PyCharm ve Git/GitHub kullanımı.
+* **İlgi Alanları:** Yazılım geliştirme, matematiksel modelleme ve finansal piyasa takibi.
 
-İlgi Alanları: Yazılım geliştirme, matematiksel modelleme ve finansal piyasa takibi.
+---
 
-📚 Bu Depoda Neler Var?
-Python değişkenleri ve veri tipleri çalışmaları.
+### 📂 Bu Depoda Neler Var?
+* Python değişkenleri ve veri tipleri çalışmaları.
+* Matematiksel problem çözümleri ve algoritmalar.
+* Kullanıcı etkileşimli (input/output) temel scriptler.
 
-Matematiksel problem çözümleri ve algoritmalar.
+> Bu çalışma bir "öğrenme günlüğü" niteliğindedir.
 
-Kullanıcı etkileşimli (input/output) temel scriptler.
-
-Bu çalışma bir "öğrenme günlüğü" niteliğindedir.
