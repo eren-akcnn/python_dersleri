@@ -20,4 +20,4 @@ print(x)
 
 x = float("10.2") 
 
-print(x)
+# print(x)    burda da yıne str seklınde yazdık ama onune float yazdıgımız ıcın verı donusumu yapmıs olduk ondalıklı oldu
